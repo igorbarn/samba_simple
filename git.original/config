@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	email = igor.barn@yandex.ru
+	name = Rudykh Igor
+[remote "origin"]
+	url = https://github.com/igorbarn/repo.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
